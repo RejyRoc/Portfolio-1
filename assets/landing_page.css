@@ -1,0 +1,1828 @@
+/* Feuille de styles CSS */
+
+/*
+	@name landing_page
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 5472px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__landing_page {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 5472px;
+	background:rgba(255,255,255,1);
+}
+
+#group_1988 {
+	top: 183px;
+	left: 154px;
+	width: 1087px;
+	height: 379px;
+}
+#header_left {
+	top: 7px;
+	left: 0px;
+	width: 671px;
+	height: 332px;
+}
+#content {
+	top: 0px;
+	left: 0px;
+	width: 671px;
+	height: 240px;
+}
+
+#hey_ {
+	top: 0px;
+	left: -3px;
+	width: 44px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 24px;
+	color:#282938;
+}
+
+
+#i_m_rejy_jospeh_roc__web_developer_ {
+	top: 40px;
+	left: 0px;
+	width: 732px;
+	height: 168px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 56px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 67.200002670288px;
+	color:#282938;
+}
+
+
+#with_3_years_of_professional_experience__well_versed_in_html__css__php__laravel__and_wordpress_ {
+	top: 185px;
+	left: 0px;
+	width: 489px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	line-height: 27px;
+	color:#1C1E53;
+}
+
+#actions {
+	top: 264px;
+	left: 0px;
+	width: 128px;
+	height: 68px;
+}
+#button {
+	top: 16px;
+	left: 0px;
+	width: 128px;
+	height: 52px;
+}
+
+#get_in_touch {
+	top: 14px;
+	left: 19px;
+	width: 111px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#FFFFFF;
+}
+
+
+#group_11_1 {
+	top: -25px;
+	left: 813px;
+	width: 274px;
+	height: 379px;
+}
+
+#my_skill___303 {
+	top: 562px;
+	left: 0px;
+	width: 1440px;
+	height: 656px;
+	
+}
+#section_title {
+	top: 112px;
+	left: 64px;
+	width: 768px;
+	height: 98px;
+}
+
+#my_skills {
+	top: 0px;
+	left: -3px;
+	width: 78px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 24px;
+	color:#282938;
+}
+
+#content_ek1 {
+	top: 40px;
+	left: 0px;
+	width: 768px;
+	height: 58px;
+}
+
+#my_expertise {
+	top: 0px;
+	left: 0px;
+	width: 821px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 57.600002288818px;
+	color:#282938;
+}
+
+#row {
+	top: 290px;
+	left: 64px;
+	width: 1312px;
+	height: 254px;
+	
+}
+#content_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 416px;
+	height: 254px;
+}
+#section_title_ek1 {
+	top: 24px;
+	left: 24px;
+	width: 400px;
+	height: 250px;
+	border-radius: 40px;
+	background-color: #c8dfe9;
+	
+	
+
+}
+#branding___logo {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
+    padding: 20px;"
+}
+
+#tag_1 {
+	top: 10px;
+	left: 10px;
+	width: 40px;
+	height: 40px;
+	padding: 20px;"
+}
+
+#content_ek3 {
+	top: 76px;
+	left: 0px;
+	width: 368px;
+	height: 130px;
+  style="padding: 20px;"
+}
+
+#branding___seo {
+	top: 0px;
+	left: 0px;
+	width: 397px;
+	height: 51px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 33.599999427795px;
+	color:#282938;
+    padding: 20px;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__suspendisse_varius_enim_in_eros_elementum_tristique_ {
+	top: 58px;
+	left: 0px;
+	width: 389px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#000000;
+	padding: 20px;"
+}
+
+#content_ek4 {
+	top: 0px;
+	left: 448px;
+	width: 416px;
+	height: 254px;
+}
+#section_title_ek2 {
+	top: 24px;
+	left: 24px;
+	width: 400px;
+	height: 250px;
+	border-radius: 40px;
+	background-color: #c8dfe9;
+}
+#ui___ux_design {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
+	padding: 20px;
+}
+
+#feather_pen_1 {
+	top: 10px;
+	left: 10px;
+	width: 40px;
+	height: 40px;
+	padding: 20px;
+}
+
+#content_ek5 {
+	top: 76px;
+	left: 0px;
+	width: 368px;
+	height: 130px;
+}
+
+#ui___ux_design_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 397px;
+	height: 51px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 33.599999427795px;
+	color:#282938;
+	padding: 20px;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__suspendisse_varius_enim_in_eros_elementum_tristique__ek1 {
+	top: 58px;
+	left: 0px;
+	width: 389px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	padding: 20px;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#000000;
+}
+
+#content_ek6 {
+	top: 0px;
+	left: 896px;
+	width: 416px;
+	height: 254px;
+}
+#section_title_ek3 {
+	top: 24px;
+	left: 24px;
+	width: 400px;
+	height: 250px;
+	border-radius: 40px;
+	background-color: #c8dfe9;
+}
+#webflow_development {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
+	padding: 20px;
+}
+
+#feather_pen_1_ek1 {
+	top: 10px;
+	left: 10px;
+	width: 40px;
+	height: 40px;
+	padding: 20px;
+}
+
+#content_ek7 {
+	top: 76px;
+	left: 0px;
+	width: 368px;
+	height: 130px;
+	padding: 20px;
+}
+
+#webflow_development_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 397px;
+	height: 51px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 33.599999427795px;
+	color:#282938;
+	padding: 20px;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__suspendisse_varius_enim_in_eros_elementum_tristique__ek2 {
+	top: 58px;
+	left: 0px;
+	width: 389px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#000000;
+	padding: 20px;
+}
+
+#blog___3 {
+	top: 1218px;
+	left: 0px;
+	width: 1440px;
+	height: 897px;
+}
+#section_header {
+	top: 112px;
+	left: 64px;
+	width: 1312px;
+	height: 98px;
+}
+#section_title_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 768px;
+	height: 98px;
+}
+
+#recent_projects {
+	top: 0px;
+	left: -3px;
+	width: 127px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 24px;
+	color:#282938;
+}
+
+#content_ek8 {
+	top: 40px;
+	left: 0px;
+	width: 768px;
+	height: 58px;
+}
+
+#my_portfolio {
+	top: 0px;
+	left: 0px;
+	width: 821px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 57.600002288818px;
+	color:#282938;
+}
+
+#social_button {
+	top: 25.5px;
+	left: 1122px;
+	width: 190px;
+	height: 56px;
+}
+#social_icon {
+	top: 16px;
+	left: 16px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#text {
+	top: 16px;
+	left: 52px;
+	width: 142px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#FFFFFF;
+}
+
+#content_ek9 {
+	top: 290px;
+	left: 64px;
+	width: 1312px;
+	height: 515px;
+}
+#content_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 1312px;
+	height: 515px;
+}
+#row_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1312px;
+	height: 515px;
+}
+#card {
+	top: 0px;
+	left: 0px;
+	width: 416px;
+	height: 515px;
+	box-shadow: 10px 5px 5px rgb(48, 66, 82);
+}
+
+#placeholder___image {
+	top: 0px;
+	left: 0px;
+	width: 416px;
+	height: 300px;
+}
+
+#content_ek11 {
+	top: 300px;
+	left: 0px;
+	width: 416px;
+	height: 215px;
+}
+#content_ek12 {
+	top: 24px;
+	left: 24px;
+	width: 368px;
+	height: 114px;
+}
+#title {
+	top: 0px;
+	left: 0px;
+	width: 368px;
+	height: 114px;
+}
+
+#blog_title_heading_will_go_here {
+	top: 0px;
+	left: 0px;
+	width: 397px;
+	height: 51px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 33.599999427795px;
+	color:#282938;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__suspendisse_varius_enim_in_eros_ {
+	top: 42px;
+	left: 0px;
+	width: 389px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#1C1E53;
+}
+
+#avatar {
+	top: 162px;
+	left: 24px;
+	width: 127px;
+	height: 29px;
+}
+#content_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 127px;
+	height: 21px;
+}
+
+#view_in_dribbble {
+	top: 0px;
+	left: 0px;
+	width: 122px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#vector_ek1 {
+	top: 4.5px;
+	left: 115px;
+	width: 12px;
+	height: 12px;
+}
+
+#card_ek1 {
+	top: 0px;
+	left: 448px;
+	width: 416px;
+	height: 491px;
+	box-shadow: 10px 5px 5px rgb(48, 66, 82);
+}
+
+#placeholder___image_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 416px;
+	height: 300px;
+}
+
+#content_ek14 {
+	top: 300px;
+	left: 0px;
+	width: 416px;
+	height: 191px;
+}
+#content_ek15 {
+	top: 24px;
+	left: 24px;
+	width: 368px;
+	height: 90px;
+}
+#title_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 368px;
+	height: 90px;
+}
+
+#blog_title_heading_will_go_here_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 397px;
+	height: 51px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 33.599999427795px;
+	color:#282938;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__suspendisse_varius_enim_in_eros__ek1 {
+	top: 42px;
+	left: 0px;
+	width: 389px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#1C1E53;
+}
+
+#avatar_ek1 {
+	top: 138px;
+	left: 24px;
+	width: 127px;
+	height: 29px;
+}
+#content_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 127px;
+	height: 21px;
+}
+
+#view_in_dribbble_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 122px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#vector_ek2 {
+	top: 4.5px;
+	left: 115px;
+	width: 12px;
+	height: 12px;
+}
+
+#card_ek2 {
+	top: 0px;
+	left: 896px;
+	width: 416px;
+	height: 491px;
+	box-shadow: 10px 5px 5px rgb(48, 66, 82);
+}
+
+#placeholder___image_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 416px;
+	height: 300px;
+}
+
+#content_ek17 {
+	top: 300px;
+	left: 0px;
+	width: 416px;
+	height: 191px;
+}
+#content_ek18 {
+	top: 24px;
+	left: 24px;
+	width: 368px;
+	height: 90px;
+}
+#title_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 368px;
+	height: 90px;
+}
+
+#blog_title_heading_will_go_here_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 397px;
+	height: 51px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 33.599999427795px;
+	color:#282938;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__suspendisse_varius_enim_in_eros__ek2 {
+	top: 42px;
+	left: 0px;
+	width: 389px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#1C1E53;
+}
+
+#avatar_ek2 {
+	top: 138px;
+	left: 24px;
+	width: 127px;
+	height: 29px;
+}
+#content_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 127px;
+	height: 21px;
+}
+
+#view_in_dribbble_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 122px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#vector_ek3 {
+	top: 4.5px;
+	left: 115px;
+	width: 12px;
+	height: 12px;
+}
+
+#testimonial___17 {
+	top: 2115px;
+	left: 0px;
+	width: 1440px;
+	height: 636.89px;
+	background-color: #F5FCFF;
+}
+#section_title_ek5 {
+	top: 112px;
+	left: 64px;
+	width: 1312px;
+	height: 58px;
+}
+
+#customer_testimonials {
+	top: 0px;
+	left: 0px;
+	width: 613px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 57.600002288818px;
+	color:#282938;
+}
+
+#content_ek20 {
+	top: 250px;
+	left: 64px;
+	width: 1312px;
+	height: 274.89px;
+}
+#column {
+	top: 0px;
+	left: 0px;
+	width: 416px;
+	height: 274.89px;
+	border-radius: 20px;
+	border: solid;
+	border-color: #00526b;
+}
+#stars {
+	top: 32px;
+	left: 32px;
+	width: 116px;
+	height: 18.89px;
+}
+
+#vector_ek4 {
+	top: px;
+	left: px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek5 {
+	top: 0px;
+	left: 24px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek6 {
+	top: 0px;
+	left: 48px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek7 {
+	top: 0px;
+	left: 72px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek8 {
+	top: 0px;
+	left: 96px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#__lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__suspendisse_varius_enim_in_eros_elementum_tristique__duis_cursus__mi_quis_viverra_ornare__ {
+	top: 82.89px;
+	left: 32px;
+	width: 373px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#1C1E53;
+  padding: 20px;
+}
+
+#avatar_ek3 {
+	top: 186.89px;
+	left: 32px;
+	width: 286px;
+	height: 56px;
+}
+
+#avatar_image {
+	top: 0px;
+	left: 0px;
+	width: 56px;
+	height: 56px;
+}
+
+#avatar_content {
+	top: 4px;
+	left: 72px;
+	width: 214px;
+	height: 48px;
+}
+
+#dianne_russell {
+	top: 0px;
+	left: 0px;
+	width: 116px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 24px;
+	color:#282938;
+}
+
+
+#starbucks {
+	top: 24px;
+	left: 0px;
+	width: 235px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#1C1E53;
+}
+
+#column_ek1 {
+	top: 0px;
+	left: 448px;
+	width: 416px;
+	height: 274.89px;
+	border-radius: 20px;
+	border: solid;
+	border-color: #00526b;
+	
+}
+#stars_ek1 {
+	top: 32px;
+	left: 32px;
+	width: 116px;
+	height: 18.89px;
+}
+
+#vector_ek9 {
+	top: px;
+	left: px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek10 {
+	top: 0px;
+	left: 24px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek11 {
+	top: 0px;
+	left: 48px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek12 {
+	top: 0px;
+	left: 72px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek13 {
+	top: 0px;
+	left: 96px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#__lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__suspendisse_varius_enim_in_eros_elementum_tristique__duis_cursus__mi_quis_viverra_ornare___ek1 {
+	top: 82.89px;
+	left: 32px;
+	width: 373px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#1C1E53;
+}
+
+#avatar_ek4 {
+	top: 186.89px;
+	left: 32px;
+	width: 202px;
+	height: 56px;
+}
+
+#avatar_image_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 56px;
+	height: 56px;
+}
+
+#avatar_content_ek1 {
+	top: 4px;
+	left: 72px;
+	width: 130px;
+	height: 48px;
+}
+
+#kristin_watson {
+	top: 0px;
+	left: 0px;
+	width: 108px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 24px;
+	color:#282938;
+}
+
+
+#louis_vuitton {
+	top: 24px;
+	left: 0px;
+	width: 151px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#1C1E53;
+}
+
+#column_ek2 {
+	top: 0px;
+	left: 896px;
+	width: 416px;
+	height: 274.89px;
+	border-radius: 20px;
+	border: solid;
+	border-color: #00526b;+
+}
+#stars_ek2 {
+	top: 32px;
+	left: 32px;
+	width: 116px;
+	height: 18.89px;
+}
+
+#vector_ek14 {
+	top: px;
+	left: px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek15 {
+	top: 0px;
+	left: 24px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek16 {
+	top: 0px;
+	left: 48px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek17 {
+	top: 0px;
+	left: 72px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#vector_ek18 {
+	top: 0px;
+	left: 96px;
+	width: 20px;
+	height: 18.89px;
+}
+
+
+#__lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__suspendisse_varius_enim_in_eros_elementum_tristique__duis_cursus__mi_quis_viverra_ornare___ek2 {
+	top: 82.89px;
+	left: 32px;
+	width: 373px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#1C1E53;
+}
+
+#avatar_ek5 {
+	top: 186.89px;
+	left: 32px;
+	width: 352px;
+	height: 56px;
+}
+
+#avatar_image_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 56px;
+	height: 56px;
+}
+
+#avatar_content_ek2 {
+	top: 4px;
+	left: 72px;
+	width: 280px;
+	height: 48px;
+}
+
+#kathryn_murphy {
+	top: 0px;
+	left: 0px;
+	width: 155px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 24px;
+	color:#282938;
+}
+
+
+#mcdonald_s {
+	top: 24px;
+	left: 0px;
+	width: 301px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#1C1E53;
+}
+
+#contact___2 {
+	top: 2752px;
+	left: 0px;
+	width: 1440px;
+	height: 1066px;
+}
+#section_title_ek6 {
+	top: 112px;
+	left: 336px;
+	width: 768px;
+	height: 149px;
+}
+
+#get_in_touch_ek1 {
+	top: 0px;
+	left: 336px;
+	width: 103px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 24px;
+	color:#282938;
+}
+
+#content_ek21 {
+	top: 40px;
+	left: 0px;
+	width: 768px;
+	height: 109px;
+}
+
+#contact_us {
+	top: 0px;
+	left: -8px;
+	width: 797px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 57.600002288818px;
+	color:#282938;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit_ {
+	top: 82px;
+	left: -3px;
+	width: 782px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: center;
+	line-height: 27px;
+	color:#1C1E53;
+}
+
+#form {
+	top: 309px;
+	left: 336px;
+	width: 768px;
+	height: 645px;
+}
+#inputs {
+	top: 0px;
+	left: 0px;
+	width: 768px;
+	height: 80px;
+}
+#input {
+	top: 0px;
+	left: 0px;
+	width: 372px;
+	height: 80px;
+}
+
+#first_name {
+	top: 0px;
+	left: 0px;
+	width: 393px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#282938;
+}
+
+#input_ek1 {
+	top: 32px;
+	left: 0px;
+	width: 372px;
+	height: 48px;
+}
+#input_ek2 {
+	top: 0px;
+	left: 396px;
+	width: 372px;
+	height: 80px;
+}
+
+#last_name {
+	top: 0px;
+	left: 0px;
+	width: 393px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#282938;
+}
+
+#input_ek3 {
+	top: 32px;
+	left: 0px;
+	width: 372px;
+	height: 48px;
+}
+#inputs_ek1 {
+	top: 104px;
+	left: 0px;
+	width: 768px;
+	height: 80px;
+}
+#input_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 372px;
+	height: 80px;
+}
+
+#email {
+	top: 0px;
+	left: 0px;
+	width: 393px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#282938;
+}
+
+#input_ek5 {
+	top: 32px;
+	left: 0px;
+	width: 372px;
+	height: 48px;
+}
+#input_ek6 {
+	top: 0px;
+	left: 396px;
+	width: 372px;
+	height: 80px;
+}
+
+#phone_number {
+	top: 0px;
+	left: 0px;
+	width: 393px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#282938;
+}
+
+#input_ek7 {
+	top: 32px;
+	left: 0px;
+	width: 372px;
+	height: 48px;
+}
+#input_ek8 {
+	top: 208px;
+	left: 0px;
+	width: 768px;
+	height: 80px;
+}
+
+#choose_a_topic {
+	top: 0px;
+	left: 0px;
+	width: 789px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#282938;
+}
+
+#input_ek9 {
+	top: 32px;
+	left: 0px;
+	width: 768px;
+	height: 48px;
+}
+
+#select_one___ {
+	top: 12px;
+	left: 12px;
+	width: 741px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#282938;
+}
+
+#icon {
+	top: 12px;
+	left: 732px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek19 {
+	top: 8.7px;
+	left: 5.7px;
+	width: 12.59px;
+	height: 7.13px;
+}
+
+#radios {
+	top: 312px;
+	left: 0px;
+	width: 768px;
+	height: 163px;
+}
+
+#which_best_describes_you_ {
+	top: 16px;
+	left: 0px;
+	width: 211px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#000000;
+}
+
+#content_ek22 {
+	top: 56px;
+	left: 0px;
+	width: 768px;
+	height: 91px;
+}
+#column_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 372px;
+	height: 91px;
+}
+#radio_button {
+	top: 0px;
+	left: 0px;
+	width: 372px;
+	height: 21px;
+}
+#radio {
+	top: 2.5px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+#first_choice {
+	top: 0px;
+	left: 24px;
+	width: 367px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+#radio_button_ek1 {
+	top: 35px;
+	left: 0px;
+	width: 372px;
+	height: 21px;
+}
+#radio_ek1 {
+	top: 2.5px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+#third_choice {
+	top: 0px;
+	left: 24px;
+	width: 367px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+#radio_button_ek2 {
+	top: 70px;
+	left: 0px;
+	width: 372px;
+	height: 21px;
+}
+#radio_ek2 {
+	top: 2.5px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+#fifth_choice {
+	top: 0px;
+	left: 24px;
+	width: 367px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+#column_ek4 {
+	top: 0px;
+	left: 396px;
+	width: 372px;
+	height: 91px;
+}
+#radio_button_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 372px;
+	height: 21px;
+}
+#radio_ek3 {
+	top: 2.5px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+#second_choice {
+	top: 0px;
+	left: 24px;
+	width: 367px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+#radio_button_ek4 {
+	top: 35px;
+	left: 0px;
+	width: 372px;
+	height: 21px;
+}
+#radio_ek4 {
+	top: 2.5px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+#fourth_choice {
+	top: 0px;
+	left: 24px;
+	width: 367px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+#radio_button_ek5 {
+	top: 70px;
+	left: 0px;
+	width: 372px;
+	height: 21px;
+}
+#radio_ek5 {
+	top: 2.5px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+#other {
+	top: 0px;
+	left: 24px;
+	width: 367px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+#input_ek10 {
+	top: 312px;
+	left: 0px;
+	width: 768px;
+	height: 212px;
+}
+
+#message {
+	top: 0px;
+	left: 0px;
+	width: 789px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#282938;
+}
+
+#input_ek11 {
+	top: 32px;
+	left: 0px;
+	width: 768px;
+	height: 180px;
+}
+
+#type_your_message___ {
+	top: 12px;
+	left: 12px;
+	width: 765px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#4F4F4F;
+}
+
+#checkbox_button {
+	top: 548px;
+	left: 0px;
+	width: 768px;
+	height: 21px;
+}
+#checkbox {
+	top: 2.5px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+#i_accept_the_terms {
+	top: 0px;
+	left: 24px;
+	width: 132px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#282938;
+}
+
+#button_ek1 {
+	top: 593px;
+	left: 320px;
+	width: 128px;
+	height: 52px;
+}
+
+#submit {
+	top: 14px;
+	left: 38.5px;
+	width: 72px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#FFFFFF;
+}
+
+#group_1991 {
+	top: 30px;
+	left: 10px;
+	width: 1398px;
+	height: 81px;
+}
+#frame_1000003237 {
+	top: 0px;
+	left: 0px;
+	width: 1398px;
+	height: 81px;
+}
+
+#____rejy__ {
+	top: 23px;
+	left: 60px;
+	width: 148px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 33.599999427795px;
+	color:#503AE7;
+}
+
+#group_1989 {
+	top: 20px;
+	left: 493px;
+	width: 473px;
+	height: 41px;
+}
+
+#home {
+	top: 0px;
+	left: 0px;
+	width: 137px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 33.599999427795px;
+	color:#000000;
+}
+
+
+#skills {
+	top: 0px;
+	left: 108px;
+	width: 96px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 33.599999427795px;
+	color:#000000;
+}
+
+
+#portfolio {
+	top: 0px;
+	left: 216px;
+	width: 137px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 33.599999427795px;
+	color:#000000;
+}
+
+
+#testimonials {
+	top: 0px;
+	left: 330px;
+	width: 172px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 33.599999427795px;
+	color:#000000;
+}
+
+#group_1990 {
+	top: 17px;
+	left: 1231px;
+	width: 122px;
+	height: 48px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 124px;
+	height: 50px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #000000;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#contact_me {
+	top: 11px;
+	left: 11px;
+	width: 123px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	line-height: 27px;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
